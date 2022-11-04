@@ -19,3 +19,6 @@ exports['ev-sidebuttons']:EditButton('1', {
 
 exports['ev-sidebuttons']:RemoveButton('1') -- Removes the button with the id "1"
 ```
+
+## Preview
+![Imgur](https://imgur.com/XLrvDzW.png)
